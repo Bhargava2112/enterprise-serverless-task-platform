@@ -1,9 +1,0 @@
-{
-  "title": "AI-Augmented CI/CD Code Review",
-  "category": "AI-Integrated Engineering",
-  "stack": "Python, AST, diff parser, secret and risk rules",
-  "stage": "local_reference",
-  "runtime": "python3.12",
-  "test_command": "PYTHONPATH=src python -m unittest discover -s tests -v",
-  "cloud_deployed": false
-}

@@ -1,9 +1,0 @@
-{
-  "title": "AI-Driven Automated Testing",
-  "category": "AI-Integrated Engineering",
-  "stack": "Python, AST, contract planning, unittest subprocess",
-  "stage": "local_reference",
-  "runtime": "python3.12",
-  "test_command": "PYTHONPATH=src python -m unittest discover -s tests -v",
-  "cloud_deployed": false
-}
