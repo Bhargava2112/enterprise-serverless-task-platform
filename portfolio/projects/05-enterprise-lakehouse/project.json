@@ -1,0 +1,9 @@
+{
+  "title": "Intelligent Enterprise Data Lakehouse",
+  "category": "Azure / Data Engineering",
+  "stack": "Python, SQLite, bronze/silver/gold, SCD2, lineage",
+  "stage": "local_reference",
+  "runtime": "python3.12",
+  "test_command": "PYTHONPATH=src python -m unittest discover -s tests -v",
+  "cloud_deployed": false
+}

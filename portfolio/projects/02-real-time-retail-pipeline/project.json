@@ -1,0 +1,9 @@
+{
+  "title": "Real-Time Retail Data Processing Platform",
+  "category": "AWS / Data Engineering",
+  "stack": "Python, SQLite reference, event-stream/outbox patterns",
+  "stage": "local_reference",
+  "runtime": "python3.12",
+  "test_command": "PYTHONPATH=src python -m unittest discover -s tests -v",
+  "cloud_deployed": false
+}
